@@ -1,6 +1,6 @@
 # Learn@home
 
-Learn@Home est une association qui met en relation des enfants en difficulté scolaire et des enseignants bénévoles.
+Learn@Home est une association qui met en relation des élèves et des enseignants bénévoles.
 
 
 #### Objectifs
